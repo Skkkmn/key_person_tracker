@@ -1,0 +1,1 @@
+import{r as e}from"./request-DffdHogI.js";function s(t){return e.get("/tags",{params:t})}function n(t){return e.post("/tags",t)}function u(t,a){return e.put(`/tags/${t}`,a)}function g(t){return e.delete(`/tags/${t}`)}export{n as c,g as d,s as l,u};
