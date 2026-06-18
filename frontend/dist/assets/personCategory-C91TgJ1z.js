@@ -1,0 +1,1 @@
+import{r as t}from"./request-DffdHogI.js";function a(e){return t.get("/categories",{params:e})}function s(e){return t.post("/categories",e)}function n(e,r){return t.put(`/categories/${e}`,r)}function u(e){return t.delete(`/categories/${e}`)}export{s as c,u as d,a as l,n as u};
