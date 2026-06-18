@@ -1,0 +1,6 @@
+-keep class com.psim.mobile.api.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-keep class com.google.gson.** { *; }
+-dontwarn okhttp3.**
+-dontwarn retrofit2.**
