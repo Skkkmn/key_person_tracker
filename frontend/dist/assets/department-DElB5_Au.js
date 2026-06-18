@@ -1,0 +1,1 @@
+import{r as t}from"./request-DffdHogI.js";function a(e){return t.get("/departments",{params:e})}function p(e){return t.post("/departments",e)}function s(e,r){return t.put(`/departments/${e}`,r)}function u(e){return t.delete(`/departments/${e}`)}function m(){return t.get("/departments/tree")}export{p as c,u as d,m as g,a as l,s as u};
