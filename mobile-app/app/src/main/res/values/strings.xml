@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">重点人员定位</string>
+    <string name="notification_channel_name">定位服务</string>
+    <string name="notification_channel_desc">用于后台定位上报</string>
+    <string name="notification_text">正在运行定位监控服务</string>
+    <string name="btn_start">启动服务</string>
+    <string name="btn_stop">停止服务</string>
+    <string name="label_status">服务状态</string>
+    <string name="label_token">设备令牌</string>
+    <string name="label_server_url">服务器地址</string>
+    <string name="label_device_id">设备ID</string>
+    <string name="status_running">运行中</string>
+    <string name="status_stopped">已停止</string>
+    <string name="btn_save">保存配置</string>
+    <string name="toast_saved">配置已保存</string>
+    <string name="hint_token">请输入后端分配的令牌</string>
+    <string name="hint_server">http://你的服务器IP:5000</string>
+</resources>
