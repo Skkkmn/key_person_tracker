@@ -1,0 +1,1 @@
+import{r}from"./request-DffdHogI.js";function u(e){return r.get("/users",{params:e})}function n(e){return r.post("/users",e)}function o(e,s){return r.put(`/users/${e}`,s)}function a(e){return r.delete(`/users/${e}`)}export{n as c,a as d,u as l,o as u};
